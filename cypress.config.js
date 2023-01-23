@@ -9,7 +9,10 @@ module.exports = defineConfig({
     },
     specPattern:'cypress/integration/examples/*.js',
     viewportHeight:800,
-    viewportWidth:1200
+    viewportWidth:1200,
+    projectId: "4w3tue"
 
   },
+  
+  
 })
